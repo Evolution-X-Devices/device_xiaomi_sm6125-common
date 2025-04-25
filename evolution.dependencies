@@ -8,8 +8,8 @@
     "target_path": "kernel/xiaomi/sm6125"
   },
   {
-    "repository": "xiaomi_hardware",
-    "target_path": "xiaomi/hardware"
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
   },
   {
     "repository": "vendor_xiaomi_sm6125-common",
